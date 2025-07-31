@@ -16,17 +16,6 @@ I'm committed to writing clean, maintainable code and thrive in collaborative, a
 
 ---
 
-### 👨‍💻 Current Role
-
-**Full Stack Developer at Secretaría de Innovación de la Presidencia**  
-- Built and launched 6+ public sector web systems, improving load times by 45%+
-- Refactored legacy codebases using Clean Architecture & design patterns
-- Integrated RESTful APIs with OpenAPI, reducing integration time by 30%
-- Implemented Two-Factor Authentication (OTP) for secure government platforms
-- Led technical development for strategic platforms with 99%+ uptime
-
----
-
 ### 🏆 Education & Certifications
 
 - **B.Sc. Computer Systems Engineering**, University of El Salvador (Highest GPA 2023 & 2024, Graduation June 2025)
