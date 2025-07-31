@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Misael Antonio Gómez García
+# 👋 Hi, I'm Misael Gómez
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-misael--dev-blue?logo=linkedin)](https://linkedin.com/in/misael-dev)
 [![Email](https://img.shields.io/badge/Email-misael.gomez454@gmail.com-red?logo=gmail)](mailto:misael.gomez454@gmail.com)
 
 **San Salvador, El Salvador**  
-Full Stack Developer | Computer Systems Engineering Student
+Full Stack Developer | Computer Systems Engineer
 
 ---
 
@@ -40,7 +40,7 @@ I'm committed to writing clean, maintainable code and thrive in collaborative, a
 ### 🛠️ Skills
 
 TypeScript | Angular | React.js | Next.js | Vue.js | TailwindCSS | Nest.js | Laravel  
-Docker | OpenAPI/Swagger | MongoDB | PostgreSQL | MySQL | SOLID | Git  
+Docker | OpenAPI/Swagger | MongoDB | PostgreSQL | MySQL | SOLID | Git  | PrimeFaces
 Agile | Clean Architecture | REST APIs | SSR | Effective Communication | Critical Thinking
 
 ---
